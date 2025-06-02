@@ -39,7 +39,7 @@ NUMERICAL_FEATURES = [
     "age",
     "trestbps",  # Resting blood pressure
     "chol",  # Serum cholestoral in mg/dl
-    "thalach",  # Maximum heart rate achieved
+    "thalch",  # Maximum heart rate achieved
     "oldpeak",  # ST depression induced by exercise relative to rest
 ]
 
