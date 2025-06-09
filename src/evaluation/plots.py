@@ -108,6 +108,7 @@ def plot_training_history(
 
 if __name__ == "__main__":
     # This block allows you to test this module directly.
+    # Run: python -m src.evaluation.plots
     print("--- Testing Plotting Module ---")
 
     # 1. Create dummy history data (simulating Keras history.history dict)
