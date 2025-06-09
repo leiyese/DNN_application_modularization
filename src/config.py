@@ -27,7 +27,7 @@ TARGET_COLUMN = "num"  # Example: 'num' or 'target' or 'condition'
 CATEGORICAL_FEATURES = ["sex", "cp", "fbs", "restecg", "exang", "slope", "ca", "thal"]
 
 # List of columns that are numerical
-NUMERICAL_FEATURES = ["age", "trestbps", "chol", "thalach", "oldpeak"]
+NUMERICAL_FEATURES = ["age", "trestbps", "chol", "thalch", "oldpeak"]
 
 # --- Data Splitting Parameters ---
 TEST_SET_SIZE = 0.2  # Proportion of data to allocate to the test set (e.g., 20%)
