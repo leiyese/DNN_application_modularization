@@ -1,4 +1,5 @@
 # src/config.py
+# If needed we can export part of the config file to a yml file for better readability for non programmers
 
 import pathlib
 
